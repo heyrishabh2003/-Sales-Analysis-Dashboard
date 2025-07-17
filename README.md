@@ -41,16 +41,6 @@ Edit
  ┣ 📂 Screenshots      # Dashboard screenshots
  ┣ 📜 Dashboard.pbix   # Power BI file
  ┗ 📜 README.md        # Project documentation
-▶️ How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sales-analysis-dashboard.git
-Open Dashboard.pbix in Power BI Desktop.
-
-Update SQL connection in Power Query if needed.
 
 📸 Screenshots
 
