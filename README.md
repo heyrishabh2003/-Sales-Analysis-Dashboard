@@ -42,7 +42,8 @@ Edit
  ┣ 📜 Dashboard.pbix   # Power BI file
  ┗ 📜 README.md        # Project documentation
 
-📸 Screenshots
+<img width="1155" height="646" alt="Sale analysis " src="https://github.com/user-attachments/assets/7500eec3-1be7-4ae2-9129-b0fdfd15fa19" />
+
 
 📊 Insights Summary
 Total Sales: ₹29M
